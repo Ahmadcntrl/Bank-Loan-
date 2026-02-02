@@ -11,6 +11,11 @@
 - Liquidity: The bank has received $473.1M against $435.8M funded, indicating positive cash flow.
 
 - Borrower Profiles: Long-term employees (10+ years) are the most frequent applicants, and Debt Consolidation is the primary reason for borrowing.
+<img width="501" height="272" alt="Overview" src="https://github.com/user-attachments/assets/9b94b15c-049f-44c4-b07e-5b1e130103a7" />
+
+<img width="637" height="352" alt="Summary" src="https://github.com/user-attachments/assets/c911154c-457f-41ed-be90-7cf5529f982b" />
+
+
 
 ## Technical Skills Used
 
